@@ -254,7 +254,19 @@ hr.socket
   {
     padding: .5rem 1rem;
     font-size: 1rem;
-  }  
+  }
+  
+  .narrow h1
+  {
+    font-size: 1.5rem;
+  }
+
+  .clients img
+  {
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+  }
 }
 /*========= BOOTSTRAP BREAK POINTS:
 
